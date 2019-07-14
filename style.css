@@ -1,0 +1,137 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.Header{
+     background-color: whitesmoke;
+     padding:10px 35px;
+     padding: 10px 40px; 
+}
+.main{
+    padding: 100px;
+}
+.home h1{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:whitesmoke;
+    font-size: 80px;
+}
+.main h3{
+    color: aliceblue;
+    margin-bottom:150px;
+    font-size: 40px;   
+}
+.education{
+    background-color:whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:50px;
+    color:black;
+    width: 400px;
+    border:3px solid black;
+    padding-top:20px;
+    float: left;
+    height:350px;
+}
+.education li{
+    font-size: 30px; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+span{
+    color:rebeccapurple;
+}
+.skill{
+    background-color:whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:50px;
+    color:black;
+    width: 400px;
+    border:3px solid black;
+    padding: 20px;
+    float:right;
+    padding-top:20px;
+    height:350px;
+}  
+
+.skill li{
+     
+    font-size: 30px; 
+    font-family: 'Courier New', Courier, monospace;
+    color:royalblue;
+}
+.hobby{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:whitesmoke;
+    font-size: 50px;
+    padding-top:450px;
+    padding-left:85px;
+}
+.section-title h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    margin-left:30px;
+    margin-bottom: 100px;
+
+}
+.section-title{
+    border: 2px solid #dee7ec;
+    padding-bottom: 350px;
+}
+.content{
+      float: left;
+      padding-right: 30px;
+      padding-left: 30px;
+  }
+img{
+    border-radius: 50%;
+}
+.contact h1{
+    color: aliceblue;
+    font-size: 40px;   
+
+}
+.contact-me{
+    padding-top:100px;
+}
+input,textarea{
+    width:400px;
+    margin-top:10px;
+    margin-bottom:30px;
+    padding:20px;
+    font-size:18px;
+    border:1px solid #dee7ec;
+    color: beige;
+    
+  }
+  .contact-submit{
+    background-color:#dee7ec;
+    color:#889eab;
+  }
+  .contact p{
+      color: beige;
+        padding-left:20px;
+  }
+  .footer{
+    background-color: whitesmoke;
+   padding-bottom:20px;
+   padding-top:10px;
+   height:130px;
+  }
+
+   .name h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    font-size: 34px;
+    float: left;
+    padding-left:30px;
+  }
+  .social{
+      float:right;
+  }
+  .social li{
+      padding-bottom:35px;
+      list-style: none;
+      padding-right:20px;
+  }
+    
